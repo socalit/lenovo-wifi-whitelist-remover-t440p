@@ -48,6 +48,7 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 ```bash
 git clone https://github.com/socalit/lenovo-wifi-whitelist-remover-t440p.git
 cd lenovo-wifi-whitelist-remover-t440p
+git checkout v1.0
 ```
 ## 2. Make the script executable
 ```bash
