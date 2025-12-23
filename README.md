@@ -3,6 +3,10 @@
 Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compatibility.
 
 ---
+<p align="center">
+  <img src="assets/banner.png" alt="Lenovo WiFi Whitelist Remover" width="100%">
+</p>
+---
 
 ## What This Script Does
 
