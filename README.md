@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Lenovo WiFi Whitelist Remover" width="100%">
-</p>
+![Lenovo WiFi Whitelist Remover](assets/banner.png)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
+[![Lenovo](https://img.shields.io/badge/Lenovo-ThinkPad-red?logo=lenovo&logoColor=white)](https://www.lenovo.com)
+[![ThinkPad](https://img.shields.io/badge/Model-T440p-black)](https://psref.lenovo.com)
+[![BIOS](https://img.shields.io/badge/BIOS-Modding-orange)](#)
+[![Linux](https://img.shields.io/badge/Linux-Supported-yellow?logo=linux)](https://www.kernel.org)
+[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
 
