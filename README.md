@@ -32,7 +32,7 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 - CH341A USB SPI Programmer (Black/Gold preferred) + SOIC8 Clip
   - Amazon affiliate link: https://amzn.to/4j7jXC2
   
-- Linux system (tested on Ubuntu/Kali)
+- Linux system (tested with Ubuntu/Kali on t440p)
 
 ---
 
