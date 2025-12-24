@@ -13,7 +13,7 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 - Patches your dumped BIOS to remove the Wi-Fi whitelist
 - Signs the modified BIOS using ThinkPad RSA keys
 - Flashes the patched BIOS back using CH341A + SOIC8 clip
-- - Amazon affiliate link: https://amzn.to/4j7jXC2
+  - Amazon affiliate link: https://amzn.to/4j7jXC2
 - Provides a **Restore Option** in case of failure
 
 ---
@@ -30,7 +30,7 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 ## Required Tools
 
 - CH341A USB SPI Programmer (Black/Gold preferred) + SOIC8 Clip
-- - Amazon affiliate link: https://amzn.to/4j7jXC2
+  - Amazon affiliate link: https://amzn.to/4j7jXC2
   
 - Linux system (tested on Ubuntu/Kali)
 
