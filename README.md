@@ -5,7 +5,7 @@
 [![BIOS](https://img.shields.io/badge/BIOS-Whitelist%20Removal-critical)](#)
 [![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=black)](https://www.kernel.org)
 [![Bash](https://img.shields.io/badge/Script-Bash-green?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
+[![Warning](https://img.shields.io/badge/⚠-Advanced%20Users%20Only-orange)](#)
 
 
 # Lenovo Wi-Fi Whitelist Remover
