@@ -2,6 +2,8 @@
   <img src="assets/banner.png" alt="Lenovo WiFi Whitelist Remover" width="100%">
 </p>
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
+
 # Lenovo Wi-Fi Whitelist Remover
 ### For ThinkPad T440p, W540, and T540 only  
 Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compatibility.
@@ -94,6 +96,12 @@ Thanks to the incredible open-source BIOS modding community:
 This is for **educational use only**. You are responsible for your own hardware.  
 Lenovo® and ThinkPad® are trademarks of Lenovo.
 
-## Stay Updated
+## Support
 
-Follow me at github.com/SoCalIT for more hardware unlock tools and BIOS utilities.
+### ⭐ **Star the GitHub repo**  
+### Share it with communities  
+### Open issues or request features  
+
+If this project saved you time or solved a problem, consider supporting development:
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=socal370xs&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/socal370xs)
