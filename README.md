@@ -2,7 +2,6 @@
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
 [![Lenovo](https://img.shields.io/badge/Lenovo-ThinkPad-red?logo=lenovo&logoColor=white)](https://www.lenovo.com)
-[![ThinkPad](https://img.shields.io/badge/Model-T440p-black)](https://psref.lenovo.com)
 [![BIOS](https://img.shields.io/badge/BIOS-Whitelist%20Removal-critical)](#)
 [![Linux](https://img.shields.io/badge/Linux-Live%20USB-yellow?logo=linux&logoColor=black)](https://www.kernel.org)
 [![Bash](https://img.shields.io/badge/Script-Bash-green?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
