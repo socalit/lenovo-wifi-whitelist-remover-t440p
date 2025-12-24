@@ -69,7 +69,7 @@ When you run the script, you'll see this menu:
 
 Both are automatically handled by the script.
 
-## Folder: `/home/USER/thinkpad_flash/`
+## Download Folder: `/home/USER/thinkpad_flash/`
 ```
 ├── UEFIPatch               → UEFI patcher binary (v0.28.0)
 ├── bios1.img               → Verified original BIOS dump
