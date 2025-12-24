@@ -34,7 +34,7 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 > **This tool flashes your BIOS externally. A failed flash can brick your system if you do not follow instructions.**  
 > - Only use this on **T440p**, **W540**, or **T540**
 > - **Always unplug the USB programmer before clipping/unclipping the SOIC8**
-> - **Remove the yellow coin-cell CMOS battery** before flashing
+> - **Remove batteries including yellow coin-cell CMOS battery**
 
 ---
 
